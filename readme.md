@@ -6,21 +6,23 @@
 <img src="/assets/banner.png">
 
 <!-- Info Section -->
-# Meet the Developer
+## Meet the Developer
 
-🌐 **Expertise:**
+### 🌐 **Expertise:**
 - Angular for sleek and dynamic front-ends
 - Node.js for scalable server-side applications
 - .NET Core for robust and high-performance backends
 
-📖 **Currently Learning:**
+### 📖 **Currently Learning:**
 - Mastering the art of Software Architecture to design efficient and scalable systems.
 
-🔌 **Enthusiast:**
+### 🔌**Enthusiast:**
 - Deep diving into the world of IoT with Arduino and electronics. Connecting the physical and digital worlds excites me!
 
+### 🎉 **Fun Fact:**
+- I’m a tech explorer who loves tinkering with gadgets and pushing the boundaries of what's possible.
 
-📬 **Contact Me:**
+### 📬 **Contact Me:**
 <div>
     <a href="https://www.linkedin.com/in/marcos-placencio-a50014201/" target="_blank">
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
@@ -32,13 +34,10 @@
         <img src="https://img.shields.io/badge/CV-%230077B5.svg?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="CV">
     </a>
 </div>
-
-🎉 **Fun Fact:**
-- I’m a tech explorer who loves tinkering with gadgets and pushing the boundaries of what's possible.
 <!-- end of Info -->
 
 <!-- Tech Section -->
-# Techs
+## Techs
 <div style="padding: 20px; border: 1px solid #ddd; border-radius: 10px; background-color: #f9f9f9;">
     <div style="text-align: center; margin: 20px 0;">
         <h4 style="margin-bottom: 10px; border-bottom: 2px solid #4CAF50; display: inline-block; padding-bottom: 5px;">Frontend</h4>
@@ -90,7 +89,7 @@
 <!-- end of tech -->
 
 <!-- Stats Section -->
-# Stats
+## Stats
 
 <div style="text-align: center;">
     <img src="https://github-readme-stats.vercel.app/api?username=marcospd3008&show_icons=true&theme=dark" alt="Marcos' GitHub Stats" style="margin: 20px 0;">
