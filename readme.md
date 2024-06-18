@@ -1,21 +1,12 @@
 <!-- Greets section -->
-<h3 style="text-align:center; font-size: 1.5em; color: #4CAF50; text-shadow: 2px 2px 4px #aaa; font-family: 'Arial', sans-serif;">Hi👋🏽, welcome to Marcos' place</h3>
-
-<div style="width: 100%; margin: 20px auto; text-align: center; border-bottom: 1px solid #ddd; line-height: 0.1em;">
-    <span style="background: #fff; padding: 0 10px;">&#9679;</span>
-</div>
+# Hi👋🏽, welcome to Marcos' place!
 <!-- end of Greets -->
 
 <!-- banner -->
 <img src="/assets/banner.png">
 
 <!-- Info Section -->
-<h3 style="text-align:center; font-size: 1.5em; color: #4CAF50; text-shadow: 2px 2px 4px #aaa; font-family: 'Arial', sans-serif;">Meet the Developer</h3>
-
-
-<div style="width: 100%; margin: 20px auto; text-align: center; border-bottom: 1px solid #ddd; line-height: 0.1em;">
-    <span style="background: #fff; padding: 0 10px;">&#9679;</span>
-</div>
+# Meet the Developer
 
 🌐 **Expertise:**
 - Angular for sleek and dynamic front-ends
@@ -47,17 +38,12 @@
 <!-- end of Info -->
 
 <!-- Tech Section -->
-<h3 style="text-align:center; font-size: 1.5em; color: #4CAF50; text-shadow: 2px 2px 4px #aaa; font-family: 'Arial', sans-serif;">Techs</h3>
-
-<div style="width: 100%; margin: 20px auto; text-align: center; border-bottom: 1px solid #ddd; line-height: 0.1em;">
-    <span style="background: #fff; padding: 0 10px;">&#9679;</span>
-</div>
-
+# Techs
 <div style="padding: 20px; border: 1px solid #ddd; border-radius: 10px; background-color: #f9f9f9;">
     <div style="text-align: center; margin: 20px 0;">
         <h4 style="margin-bottom: 10px; border-bottom: 2px solid #4CAF50; display: inline-block; padding-bottom: 5px;">Frontend</h4>
         <div style="margin-top: 10px;">
-            <img src="/assets/html.svg" width="60" alt="HTML" style="margin: 0 10px;">
+            <img src="/assets/html.svg" width="60" alt="HTML" style="margin:100px;">
             <img src="/assets/css3.svg" width="60" alt="CSS3" style="margin: 0 10px;">
             <img src="/assets/javascript-god.svg" width="60" alt="JavaScript" style="margin: 0 10px;">
             <img src="/assets/angular.svg" width="60" alt="Angular" style="margin: 0 10px;">
@@ -104,12 +90,7 @@
 <!-- end of tech -->
 
 <!-- Stats Section -->
-<h3 style="text-align:center; font-size: 1.5em; color: #4CAF50; text-shadow: 2px 2px 4px #aaa; font-family: 'Arial', sans-serif;">Stats</h3>
-
-<div style="width: 100%; margin: 20px auto; text-align: center; border-bottom: 1px solid #ddd; line-height: 0.1em;">
-    <span style="background: #fff; padding: 0 10px;">&#9679;</span>
-</div>
-
+# Stats
 
 <div style="text-align: center;">
     <img src="https://github-readme-stats.vercel.app/api?username=marcospd3008&show_icons=true&theme=dark" alt="Marcos' GitHub Stats" style="margin: 20px 0;">
